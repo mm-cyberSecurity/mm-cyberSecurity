@@ -132,6 +132,7 @@ img { max-width: 100%; display: block; }
   transition: color .2s;
 }
 .nav-links a:hover { color: var(--accent); opacity: 1; }
+.nav-website { color: var(--accent) !important; border: 1px solid var(--accent); border-radius: 4px; padding: .15rem .5rem; }
 
 .nav-toggle {
   display: none;

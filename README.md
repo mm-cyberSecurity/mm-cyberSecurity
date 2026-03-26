@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm MM 👋</h1>
+<h1 align="center">Hi there, I'm Michael Mahany 👋</h1>
 
 <p align="center">
-  <b>🔐 Master's Student in Cybersecurity | Security Researcher | CTF Player</b>
+  <b>🔐 MSc Cybersecurity — Royal Holloway, University of London | IT Service Manager | 5 Years IT Experience</b>
 </p>
 
 <p align="center">
-  <a href="https://mm-cybersecurity.github.io/mm-cyberSecurity/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio Website"/>
+  <a href="https://xlap.org" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Website-xlap.org-blue?style=for-the-badge" alt="Personal Website"/>
   </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:michael.mahany@proton.me">
+    <img src="https://img.shields.io/badge/Email-michael.mahany%40proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/mm-cybersecurity" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miko492/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-miko492-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -20,13 +20,14 @@
 
 ## 🎓 About Me
 
-- 🏫 **Master's Student** in **Cybersecurity** — specialising in network security, penetration testing & digital forensics
-- 🔭 Currently researching **vulnerability analysis** and **threat intelligence**
-- 🌱 Deepening my expertise in **malware analysis**, **reverse engineering**, and **cloud security**
-- 🏆 Active **CTF** (Capture The Flag) competitor
-- 💬 Ask me about **network security**, **ethical hacking**, **OSINT**, or **incident response**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mm-cybersecurity) or [email](mailto:contact@example.com)
-- 🌐 Check out my [portfolio website](https://mm-cybersecurity.github.io/mm-cyberSecurity/)
+- 🏫 **MSc Cybersecurity** — Royal Holloway, University of London *(in progress)*
+- 🎓 **BSc IT Systems Management** — Alexandria, Egypt
+- 💼 Currently working as **IT Service Manager** with 5 years of IT industry experience
+- 🔭 Researching **vulnerability analysis**, **threat intelligence**, and **network security**
+- 🌱 Deepening expertise in **malware analysis**, **penetration testing**, and **cloud security**
+- 💬 Ask me about **network security**, **IT service management**, **ethical hacking**, or **OSINT**
+- 📫 Reach me at [michael.mahany@proton.me](mailto:michael.mahany@proton.me) or [LinkedIn](https://www.linkedin.com/in/miko492/)
+- 🌐 Visit my website: [xlap.org](https://xlap.org)
 
 ---
 
@@ -47,11 +48,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Platforms & Cloud
+### IT Service & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-7B3F9E?style=flat-square&logoColor=white)
 
 ---
 
@@ -83,7 +85,7 @@
 
 - 📜 CompTIA Security+ *(in progress)*
 - 📜 Certified Ethical Hacker (CEH) *(in progress)*
-- 🎮 TryHackMe — Top 5% globally
+- 🎮 TryHackMe — Active member
 - 🎮 HackTheBox — Active member
 
 ---
